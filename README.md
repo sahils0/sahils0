@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GOLANG**
 
-- 👨‍💻 All of my projects are available at [https://sahilmyportfolio.netlify.app/](https://sahilmyportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website](https://sahilreactportfolio.vercel.app/)
 
 - 💬 Ask me about **NextJS, MERN, PHP, Python**
 
