@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
-<h3 align="center">Full-Stack NextJs Developer From India</h3>
+<h3 align="center">Full-Stack Engineer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil4883&label=Profile%20views&color=0e75b6&style=flat" alt="sahil4883" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil4883" alt="sahil4883" /></a> </p>
-
-- 🌱 I’m currently learning **GOLANG**
-
-- 👨‍💻 All of my projects are available at [Website](https://sahilreactportfolio.vercel.app/)
 
 - 💬 Ask me about **NextJS, MERN, PHP, Python**
 
@@ -20,7 +16,6 @@
 <a href="https://twitter.com/shaikh_sahil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikh_sahil1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaikhsahil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shaikhsahil1" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shaikh.sahil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shaikh.sahil1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahilS2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil4883" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
