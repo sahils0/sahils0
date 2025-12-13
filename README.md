@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=sahils0" alt="sahils0" /></a> </p>
 
-- 💬 Ask me about **NextJS, MERN, PHP, Python**
+- 💬 Ask me about **V8, NextJS, MERN, PHP, Python**
 
 - 📫 How to reach me **shaikhsahil4883@gmail.com**
 
@@ -25,6 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahils0&show_icons=true&locale=en" alt="sahil4883" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahils0&" alt="sahil4883" /></p>
 
 
