@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahils0&label=Profile%20views&color=0e75b6&style=flat" alt="sahils0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahils0" alt="sahils0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=sahils0" alt="sahils0" /></a> </p>
 
 - 💬 Ask me about **NextJS, MERN, PHP, Python**
 
