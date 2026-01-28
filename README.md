@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
 <h3 align="center">Full-Stack Engineer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahils0&label=Profile%20views&color=0e75b6&style=flat" alt="sahils0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahils0&label=Profile%20views&color=0e75b6&style=flat" alt="sahils0" /> <a href="https://wakatime.com/@2ed7a498-3ce9-469b-898e-8cc11e7ec007"><img src="https://wakatime.com/badge/user/2ed7a498-3ce9-469b-898e-8cc11e7ec007.svg" alt="Total time coded since Jan 28 2026" /></a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=sahils0" alt="sahils0" /></a> </p>
 
