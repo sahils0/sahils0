@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
-<h3 align="center">Full-Stack Engineer From India</h3>
+<h1 align="center">Sahil Shaikh</h1>
+<p align="center">Full-Stack Engineer · India</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahils0&label=Profile%20views&color=0e75b6&style=flat" alt="sahils0" /> <a href="https://wakatime.com/@2ed7a498-3ce9-469b-898e-8cc11e7ec007"><img src="https://wakatime.com/badge/user/2ed7a498-3ce9-469b-898e-8cc11e7ec007.svg" alt="Total time coded since Jan 28 2026" /></a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahils0&label=views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://wakatime.com/@2ed7a498-3ce9-469b-898e-8cc11e7ec007">
+    <img src="https://wakatime.com/badge/user/2ed7a498-3ce9-469b-898e-8cc11e7ec007.svg" alt="wakatime" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=sahils0" alt="sahils0" /></a> </p>
+---
 
-- 💬 Ask me about **V8, NextJS, MERN, PHP, Python**
+**Ask me about** · V8 · Next.js · MERN · PHP 
 
-- 📫 How to reach me **shaikhsahil4883@gmail.com**
+**Reach me at** · shaikhsahil4883@gmail.com
 
-- ⚡ Fun fact **I am a chemistry major and love trading**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
-
-
-
-
+**Fun fact** · Chemistry major who loves trading
